@@ -130,29 +130,3 @@ a {
 .footer .fas {
   color: #BF4752;
 }
-
-/* Media queries */
-@media(max-width: 900px) {
-  .container {
-    width: 700px;
-  }
-}
-@media(max-width: 750px) {
-  .container {
-    width: 450px;
-  }
-}
-@media(max-width: 500px) {
-  .container {
-    width: 350px;
-  }
-  .banner {
-    padding: 50px 0;
-  }
-  .banner h1 {
-    font-size: 30px;
-  }
-  .banner p {
-    font-size: 20px;
-  }
-}
